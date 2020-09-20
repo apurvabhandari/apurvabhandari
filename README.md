@@ -1,3 +1,4 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://apurvabhandari.github.io)
 ### Hi there 👋
 
 <!--
